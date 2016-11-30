@@ -1,2 +1,2 @@
 # iOS_10_FontFit
-Redirect font size with given point size.
+Adjust font size with given point size under iOS 10.
